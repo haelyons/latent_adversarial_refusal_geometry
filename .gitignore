@@ -1,1 +1,5 @@
 .env
+output/
+sae_outputs/
+wandb/
+cached_activations/

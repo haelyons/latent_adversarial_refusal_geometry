@@ -17,3 +17,6 @@ colorama>=0.4.6
 Pillow>=10.0.0
 python-dotenv>=1.0.0
 bitsandbytes>=0.41.0
+sae-lens>=4.0.0
+wandb>=0.15.0
+zstandard>=0.21.0
